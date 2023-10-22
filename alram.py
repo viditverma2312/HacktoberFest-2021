@@ -1,3 +1,6 @@
+!pip install playsound
+!pip install PyObjC
+
 from datetime import datetime   
 from playsound import playsound
 #m=minutes
